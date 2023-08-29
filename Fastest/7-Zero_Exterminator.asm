@@ -1,0 +1,13 @@
+A:
+B:
+C:
+    INBOX
+JUMPZ A
+D:
+    OUTBOX
+    INBOX
+JUMPZ B
+    OUTBOX
+    INBOX
+JUMPZ C
+JUMP D

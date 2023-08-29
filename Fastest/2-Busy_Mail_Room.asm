@@ -1,0 +1,25 @@
+INBOX
+A:
+    OUTBOX
+    INBOX
+    OUTBOX
+    INBOX
+    OUTBOX
+    INBOX
+    OUTBOX
+    INBOX
+    OUTBOX
+    INBOX
+    OUTBOX
+    INBOX
+    OUTBOX
+    INBOX
+    OUTBOX
+    INBOX
+    OUTBOX
+    INBOX
+    OUTBOX
+    INBOX
+    OUTBOX
+    INBOX
+JUMP A

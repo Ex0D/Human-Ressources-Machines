@@ -1,0 +1,8 @@
+JUMP C
+A:
+    OUTBOX
+B:
+C:
+    INBOX
+JUMPZ A
+JUMP  B

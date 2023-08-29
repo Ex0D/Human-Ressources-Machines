@@ -1,0 +1,20 @@
+A:
+B:
+    INBOX
+JUMPZ C
+    INBOX
+JUMPZ F
+JUMP A
+C:
+D:
+E:
+F:
+G:
+    OUTBOX
+    INBOX
+JUMPZ D
+    INBOX
+JUMPZ E
+    INBOX
+JUMPZ G
+JUMP  B
